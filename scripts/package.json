@@ -1,0 +1,14 @@
+{
+  "name": "kundli-generator",
+  "version": "1.0.0",
+  "description": "Standalone Kundli chart generator with config-based bulk support",
+  "main": "generate.js",
+  "scripts": {
+    "generate": "node generate.js",
+    "generate:config": "node generate.js --config config.json"
+  },
+  "dependencies": {
+    "@ishubhamx/panchangam-js": "*",
+    "axios": "*"
+  }
+}

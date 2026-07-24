@@ -1,0 +1,12 @@
+node_modules/
+index.html
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~

@@ -1,0 +1,30 @@
+{
+  "mode": "manual",
+  "outputDir": "..",
+  "hardcodedLocations": {
+    "Pandharpur": { "lat": 17.6745, "lon": 75.3237 },
+    "Shegaon": { "lat": 20.7944, "lon": 76.6936 },
+    "Shahdol": { "lat": 23.3500, "lon": 81.1000 },
+    "Rajpipla": { "lat": 21.8700, "lon": 73.5100 },
+    "Goalpara": { "lat": 26.1800, "lon": 90.6200 },
+    "Ratlam": { "lat": 23.3340, "lon": 75.0380 },
+    "Mehsana": { "lat": 23.5880, "lon": 72.3690 },
+    "Chiplun": { "lat": 17.5300, "lon": 73.5200 }
+  },
+  "manualEntries": [
+    { "name": "Deepali Nikam", "dob": "1988-06-04", "time": "09:30", "location": "Satara" },
+    { "name": "Arvind Joshi", "dob": "1989-12-06", "time": "19:42", "location": "Shegaon" },
+    { "name": "Neha Tiwari", "dob": "1992-11-13", "time": "18:30", "location": "Shahdol (MP)" },
+    { "name": "Satya Tiwari", "dob": "1996-08-18", "time": "19:30", "location": "Shahdol (MP)" },
+    { "name": "Kosamiaom Karsinh", "dob": "2009-05-23", "time": "21:00", "location": "Rajpipla (Gujarat)" },
+    { "name": "(Namita) Juhi", "dob": "1997-01-10", "time": "00:08", "location": "Nagpur" },
+    { "name": "Sunny Bhatia", "dob": "1995-11-20", "time": "16:45", "location": "Delhi" },
+    { "name": "Paranjit Kalita", "dob": "2010-01-07", "time": "22:00", "location": "Goalpara, Assam" },
+    { "name": "Deepak Parihar", "dob": "2001-01-29", "time": "12:45", "location": "Ratlam (MP)" },
+    { "name": "Ciona Dewan", "dob": "2009-06-25", "time": "10:32", "location": "Amritsar" },
+    { "name": "Jay Patel", "dob": "2000-03-01", "time": "17:50", "location": "Mehsana (Gujarat)" },
+    { "name": "Rashmei Yadav", "dob": "1992-02-16", "time": "12:30", "location": "Chiplun (Ratnagiri)" },
+    { "name": "Neha Jagwani", "dob": "1995-01-27", "time": "23:04", "location": "Jodhpur" },
+    { "name": "Ritika Gupta", "dob": "1997-04-03", "time": "07:50", "location": "Nagpur" }
+  ]
+}

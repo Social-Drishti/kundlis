@@ -1,0 +1,43 @@
+{
+  "_comment": "Kundli Generator Configuration",
+  "_usage": "node generate.js --config config.json  OR  node generate.js (uses config.json by default)",
+
+  "mode": "manual",
+
+  "outputDir": "..",
+
+  "hardcodedLocations": {
+    "Pandharpur": { "lat": 17.6745, "lon": 75.3237 }
+  },
+
+  "manualEntries": [
+    {
+      "name": "Sample Person",
+      "dob": "1990-05-15",
+      "time": "14:30",
+      "location": "Pune, India",
+      "lat": 18.5204,
+      "lon": 73.8567
+    },
+    {
+      "name": "Geocoded Person",
+      "dob": "1985-11-20",
+      "time": "09:15",
+      "location": "Mumbai, India"
+    },
+    {
+      "name": "Hardcoded Location Person",
+      "dob": "1992-03-08",
+      "time": "06:00",
+      "location": "Pandharpur"
+    }
+  ],
+
+  "csvPath": "",
+  "csvColumns": {
+    "name": "CLIENTS NAME",
+    "dob": "DATE OF BIRTH",
+    "time": "BIRTH TIME",
+    "location": "BIRTH PLACE"
+  }
+}
